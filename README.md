@@ -13,7 +13,7 @@ in fact and event resolutions, typically using consensus. However, these systems
 are vulnerable to 99% attack, where 99% of the people can be wrong and/or
 collude against Tero and report a fact or an event incorrectly.
 
-The Tero Says fact and event reporting is based on the following assumptions:
+The Teroracle fact and event reporting is based on the following assumptions:
 
 * Tero won't collude with anyone, as he hates everyone uniformly.
 * Tero will report facts about sports events accurately without subjective bias, as he doesn't care about sports.
