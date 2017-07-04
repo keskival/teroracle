@@ -1,4 +1,4 @@
-== Teroracle
+## Teroracle ##
 
 Teroracle is the ultimate Ethereum smart contract that solves
 the problem of truthful fact and event reports in blockchain.
@@ -17,7 +17,7 @@ The Tero Says fact and event reporting is based on the following assumptions:
 * Tero will report facts about sports events accurately without subjective bias, as he doesn't care about sports.
 * Tero is a Finn, so he is as neutral and unbiased as a person can possibly be. A Finn cannot be bribed or convinced of a falsehood.
 
-== How does it work? ==
+## How does it work? ##
 
 Person A asks a clearly defined question with a bounty by sending a transaction
 with some ethers to Teroracle contract addBounty(question, option1, option2).
