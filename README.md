@@ -1,5 +1,7 @@
 ## Teroracle ##
 
+!THIS IS WORK IN PROGRESS!
+
 Teroracle is the ultimate Ethereum smart contract that solves
 the problem of truthful fact and event reports in blockchain.
 
