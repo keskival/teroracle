@@ -34,3 +34,5 @@ example bets.
 
 As soon as the bounty has been received, the user paying the bounty receives
 Terokens in an equal amount to the bounty set.
+
+Copyright: Tero Keski-Valkama, 2017
